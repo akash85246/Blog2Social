@@ -4,3 +4,4 @@ streamlit
 dotenv
 langchain-community
 langchain-openai
+dotenv
